@@ -6,7 +6,7 @@ Deployed a Cowrie SSH honeypot on an isolated Ubuntu VM to capture and analyze u
 ---
 
 ## Architecture
-[Kali Linux Attacker] -> [Port 22] -> [iptables Redirect] -> [Cowrie on Port 2222]
+Kali Linux Attacker -> Port 22 -> iptables Redirect -> Cowrie on Port 2222
 
 ---
 
